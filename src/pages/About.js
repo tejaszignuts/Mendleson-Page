@@ -15,7 +15,7 @@ const About = () => {
           </Col>
           <Col xs md="12" lg="6">
             <div className="about-col-2-container rubik-regular">
-              <h1 className="about-heading ">ABOUT US</h1>
+              <h1 className="about-heading ">about us</h1>
               <div className="about-hr-top">
                 <div className="about-ht-bottom"></div>
               </div>
